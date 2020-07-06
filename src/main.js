@@ -1,4 +1,12 @@
 
+/*
+ * implimented mods:
+ * Alternating 2-player mode: 50 pts
+ * Mouse Control: 25 pts
+ * control the rocket after firing: 10 pts
+ * new title screen: 15 pts
+ * 
+ */
 //create game configuration object
 console.log("code is being read");
 let config = {
